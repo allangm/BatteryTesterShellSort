@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iniciar">Iniciar</string>
+    <string name="resultado">Resultado</string>
+    <string name="BotonShell">Ejecutar ShellSort</string>
+    <string name="mensaje1">Mensaje 1</string>
+</resources>

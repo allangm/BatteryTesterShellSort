@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShellSort</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="resultado">Resultado</string>
+    <string name="BotonShell">Ejecutar ShellSort</string>
+    <string name="mensaje1">-</string>
+</resources>
